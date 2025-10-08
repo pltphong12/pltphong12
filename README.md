@@ -1,10 +1,9 @@
-## 👋 About Me
+## 👋 About Me:
 
 Hi! I'm Phan La Thanh Phong — a 4th-year student at the Academy of Cryptography Techniques (KMA), Vietnam.
 
 - **Education**: GPA 3.1/4
 - **Seeking**: Web Development internship — Backend (Java, Spring Boot) or Frontend (React, TypeScript)
-- **Core stack**: Java + Spring, React + TypeScript
 - **English**: TOEIC 690/990
 - **Contact**: phanlathanhphong19@gmail.com (see socials below)
 
